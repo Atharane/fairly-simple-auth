@@ -1,5 +1,5 @@
 {
-  "name": "mongo-node",
+  "name": "fairly-simple-auth-with-jwt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
